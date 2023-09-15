@@ -5,7 +5,7 @@ programa {
 
   funcao inicio() {
     
-    escreva("Escolha uma opção: \n\n1)Dolar. \n2)Euro. \n3)Kwanza.\nEscolha: ")
+    escreva("Escolha uma opÃ§Ã£o: \n\n1)Dolar. \n2)Euro. \n3)Kwanza.\nEscolha: ")
     valor_a_converter()
   }
 
@@ -45,3 +45,4 @@ programa {
   }
 
 }
+//julio 
